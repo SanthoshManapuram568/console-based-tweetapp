@@ -2,7 +2,6 @@ package com.tweetapp.console_based_tweet_app.controller;
 
 import java.util.Map;
 import java.util.Scanner;
-
 import com.tweetapp.console_based_tweet_app.entity.Tweet;
 import com.tweetapp.console_based_tweet_app.entity.User;
 import com.tweetapp.console_based_tweet_app.service.TweetService;
